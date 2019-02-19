@@ -12,6 +12,9 @@ Unzip the folder and move it into your coding_course folder. Then, open the whol
 ## Task one
 Open the file 'example.html' in Chrome and look around with the developer tools. What HTML tags can you see, and what do you think they stand for?
 
+##1
+theres <h1>...</h1> , <h2>...</h2> , <p>...</p> , <br> , <ol> <li> ... </li> </ol> , <ul> <li> ... </li> </ul> , <img src="..." alt="..." width="..."> , <table class="table"> <tbody> <tr> <td>
+
 ## Task two
 Open the file 'index.html' in your text editor and in Chrome,  change it into valid HTML file so that it looks like index_solution.jpg. Make sure to add the doctype, html, head and body tags!
 
